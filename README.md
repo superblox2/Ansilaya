@@ -1,2 +1,1 @@
-# Ansilaya
-Ansilaya Resmi GitHub İndirme Sayfası
+# Henüz Ansilaya'nın GitHub Sayfasını Hazırlıyoruz.
